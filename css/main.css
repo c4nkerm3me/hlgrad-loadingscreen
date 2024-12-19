@@ -91,7 +91,7 @@ h1 {
     -webkit-animation-duration: 15s;
     animation-name: fade;
     animation-iteration-count: infinite;
-    animation-duration: 3s;
+    animation-duration: 15s;
 }
 
 @-webkit-keyframes fade {
@@ -107,6 +107,9 @@ h1 {
     33% {opacity: 1;}
     53% {opacity: 0;}
     100% {opacity: 0;}
+}
+#f1 {
+    animation-delay: -15s;
 }
 #f2 {
     -webkit-animation-delay: -15s;

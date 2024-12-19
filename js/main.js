@@ -118,12 +118,12 @@ function loadAll() {
   }, 10000);
 }
 function loadBackground() {
-  if (Config.backgroundImage) {
-    $(".background").css(
-      "background-image",
-      'url("images/' + Config.backgroundImage + '")'
-    );
-  }
+  // if (Config.backgroundImage) {
+  //   $(".background").css(
+  //     "background-image",
+  //     'url("images/' + Config.backgroundImage + '")'
+  //   );
+  // }
 }
 function setLoad(percentage) {
   debug(percentage + "%");

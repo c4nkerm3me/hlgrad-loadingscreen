@@ -110,9 +110,6 @@ h1 {
     53% {opacity: 0;}
     100% {opacity: 0;}
 }
-#f1 {
-    -webkit-animation-delay: 5s;
-}
 #f2 {
     -webkit-animation-delay: -5s;
 }

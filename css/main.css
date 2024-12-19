@@ -109,13 +109,13 @@ h1 {
     100% {opacity: 0;}
 }
 #f2 {
-    -webkit-animation-delay: -5s;
+    -webkit-animation-delay: 16s;
 }
 #f3 {
-    -webkit-animation-delay: -10s;
+    -webkit-animation-delay: 32s;
 }
 #f4 {
-    -webkit-animation-delay: -15s;
+    -webkit-animation-delay: 48s;
 }
 
 .overhaul {

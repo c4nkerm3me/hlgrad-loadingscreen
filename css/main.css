@@ -110,15 +110,15 @@ h1 {
 }
 #f2 {
     opacity: 0;
-    -webkit-animation-delay: 5s;
+    -webkit-animation-delay: 7.5s;
 }
 #f3 {
     opacity: 0;
-    -webkit-animation-delay: 13s;
+    -webkit-animation-delay: 15s;
 }
 #f4 {
     opacity: 0;
-    -webkit-animation-delay: 21s;
+    -webkit-animation-delay: 22.5s;
 }
 
 .overhaul {

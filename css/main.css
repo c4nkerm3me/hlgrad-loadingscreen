@@ -55,7 +55,7 @@ h1 {
 .background {
   z-index: -2;
   width: 100%; 
-  height: auto;
+  height: 100%;
   position: fixed;
   animation: swapimg 5s infinite alternate;
   background-repeat: no-repeat;

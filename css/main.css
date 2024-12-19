@@ -88,10 +88,10 @@ h1 {
   
     -webkit-animation-name: fade;
     -webkit-animation-iteration-count: infinite;
-    -webkit-animation-duration: 20s;
+    -webkit-animation-duration: 30s;
     animation-name: fade;
     animation-iteration-count: infinite;
-    animation-duration: 20s;
+    animation-duration: 30s;
 }
 
 @-webkit-keyframes fade {

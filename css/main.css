@@ -59,7 +59,8 @@ h1 {
   position: fixed;
   animation: swapimg 5s infinite alternate;
   background-repeat: no-repeat;
-  object-fit: cover;
+  background-size: cover;
+  object-fit: fill;
 }
 
 @keyframes swapimg {

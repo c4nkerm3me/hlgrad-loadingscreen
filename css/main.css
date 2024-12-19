@@ -58,6 +58,7 @@ h1 {
   height: 100%;
   position: fixed;
   animation: swapimg 5s infinite alternate;
+  background-image: url("../images/default.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }

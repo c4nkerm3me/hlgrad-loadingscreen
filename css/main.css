@@ -109,7 +109,10 @@ h1 {
     100% {opacity: 0;}
 }
 #f2 {
-    -webkit-animation-delay: -15s;
+    -webkit-animation-delay: -7.5s;
+}
+#f2 {
+    -webkit-animation-delay: -12s;
 }
 
 

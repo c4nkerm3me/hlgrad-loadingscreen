@@ -110,7 +110,7 @@ h1 {
 }
 #f2 {
     opacity: 0;
-    -webkit-animation-delay: 5s;
+/*     -webkit-animation-delay: 5s; */
 }
 #f3 {
     opacity: 0;

@@ -60,7 +60,8 @@ h1 {
   animation: swapimg 5s infinite alternate;
   background-repeat: no-repeat;
   background-size: cover;
-  max-width: none;
+  object-fit: cover;
+  overflow: hidden;
 }
 
 @keyframes swapimg {

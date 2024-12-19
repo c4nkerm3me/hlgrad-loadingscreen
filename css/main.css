@@ -111,7 +111,12 @@ h1 {
 #f2 {
     -webkit-animation-delay: -12s;
 }
-
+#f2 {
+    -webkit-animation-delay: -24s;
+}
+#f2 {
+    -webkit-animation-delay: -36s;
+}
 
 .overhaul {
   z-index: -1;

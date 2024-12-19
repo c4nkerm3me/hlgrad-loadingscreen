@@ -110,14 +110,17 @@ h1 {
 }
 #f2 {
     z-index: -6;
+    opacity: 0;
     -webkit-animation-delay: 16s;
 }
 #f3 {
     z-index: -5;
+    opacity: 0;
     -webkit-animation-delay: 32s;
 }
 #f4 {
     z-index: -4;
+    opacity: 0;
     -webkit-animation-delay: 48s;
 }
 

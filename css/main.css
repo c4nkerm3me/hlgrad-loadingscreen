@@ -109,12 +109,15 @@ h1 {
     100% {opacity: 0;}
 }
 #f2 {
+    z-index: -5;
     -webkit-animation-delay: 16s;
 }
 #f3 {
+    z-index: -6;
     -webkit-animation-delay: 32s;
 }
 #f4 {
+    z-index: -7;
     -webkit-animation-delay: 48s;
 }
 

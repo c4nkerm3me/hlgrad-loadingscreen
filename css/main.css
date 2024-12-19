@@ -52,7 +52,7 @@ h1 {
   background-repeat: no-repeat;
   background-size: cover;
 } */
-.background {
+/* .background {
   z-index: -2;
   max-width: 100%;
   max-height: 100%;
@@ -76,7 +76,50 @@ h1 {
   100% {
     background-image: url("../images/Screenshot_12.jpg")
   }
+} */
+
+.fadein {
+    z-index: -2;
+    position: fixed;
+    max-width: 100%;
+    max-height: 100%;
 }
+.fadein img {
+    position: fixed;
+    max-width: 100%;
+    max-height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    -webkit-animation-name: fade;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-duration: 6s;
+    animation-name: fade;
+    animation-iteration-count: infinite;
+    animation-duration: 6s;
+}
+
+@-webkit-keyframes fade {
+    0% {opacity: 0;}
+    20% {opacity: 1;}
+    33% {opacity: 1;}
+    53% {opacity: 0;}
+    100% {opacity: 0;}
+}
+@keyframes fade {
+    0% {opacity: 0;}
+    20% {opacity: 1;}
+    33% {opacity: 1;}
+    53% {opacity: 0;}
+    100% {opacity: 0;}
+}
+#f2 {
+    -webkit-animation-delay: -4s;
+}
+#f3 {
+    -webkit-animation-delay: -2s;
+}
+
 
 .overhaul {
   z-index: -1;

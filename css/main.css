@@ -111,9 +111,9 @@ h1 {
     53% {opacity: 0;}
     100% {opacity: 0;}
 }
-#f2 {
-    -webkit-animation-delay: -6s;
-}
+/* #f2 {
+    -webkit-animation-delay: -0s;
+} */
 
 
 .overhaul {

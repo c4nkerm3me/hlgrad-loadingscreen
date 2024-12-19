@@ -5,7 +5,7 @@ var Config = {};
  * What should the text in the center of the screen be?
  * if empty it will fill in your Server Name
  */
-Config.title = "";
+Config.title = "homeless grad";
 
 /**
  * Enable map text in the top left corner of the screen?
@@ -27,8 +27,9 @@ Config.enableAnnouncements = true;
  * only works if enableAnnouncements = true
  */
 Config.announceMessages = [
-  "Enjoy your stay!",
-  "This loading screen is made by Exsite."
+  "for the homeless",
+  "this is a shit server",
+  "non-p2w homigrad ftw",
 ];
 
 /**

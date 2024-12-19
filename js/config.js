@@ -28,8 +28,8 @@ Config.enableAnnouncements = true;
  */
 Config.announceMessages = [
   "for the homeless",
-  "this is a shit server",
-  "non-p2w homigrad ftw",
+  "this is a fun server ngl",
+  "homigrad but no p2w",
 ];
 
 /**
@@ -37,12 +37,6 @@ Config.announceMessages = [
  * only works if enableAnnouncements = true
  */
 Config.announcementLength = 3000;
-
-/**
- * Image Filename
- * DROP IMAGE IN "images" FOLDER
- */
-Config.backgroundImage = "";
 
 /**
  * Enable debug messages?
